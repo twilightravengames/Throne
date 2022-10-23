@@ -21,3 +21,7 @@ WOrd documents included for download with this repository.
 
 CHANGELOG
 =========
+
+10/22/20222
+
+It has been decided that Throne will use Pixar's USD file format as part of it's backend and the StruMML/RDS document standards have been grouped together into a more common standard, name, CMV - Contiguous Meta-Verse
