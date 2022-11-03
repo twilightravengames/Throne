@@ -21,3 +21,12 @@ WOrd documents included for download with this repository.
 
 CHANGELOG
 =========
+
+
+
+DEPENDENCIES
+============
+Consumes CMV-SDK
+Consumes nginx (For fast hosting over http of StruMML and RDS documents - standardized xml )
+Consumes Qt6
+Consumes tinyxml2 (For xml parsing)
